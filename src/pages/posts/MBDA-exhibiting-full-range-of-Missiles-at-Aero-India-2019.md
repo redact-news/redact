@@ -1,0 +1,51 @@
+---
+title: MBDA exhibiting full range of Missiles at Aero India 2019
+date: '2019-02-18T02:22:57.972Z'
+thumb_img_path: >-
+  images/MBDA-exhibiting-full-range-of-Missiles-at-Aero-India-2019/1*tca9fW6OLwkHDFjBhxVNpQ.jpeg
+excerpt: >-
+  MBDA will be exhibiting a full range of missiles and missile systems on Stand
+  AB.2.23 designed to provide next generation air combat…
+template: post
+---
+MBDA will be exhibiting a full range of missiles and missile systems on Stand AB.2.23 designed to provide next generation air combat capabilities, including air dominance, strike and maritime engagement, for the Indian Air Force.
+
+In total, the group offers a range of 45 missile systems and countermeasures products already in operational service and more than 15 others currently in development.
+
+Aero India 2019 will also be the first Air Show where L&T MBDA Missile Systems Ltd, its joint venture with Larsen & Toubro, will exhibit. L&T MBDA Missile Systems Ltd will be present on Stand AB.2.24.  
+   
+Meteor is MBDA’s ramjet powered and network-enabled beyond visual range air-to-air missile. The Indian Air Force is receiving this system on its new Rafale aircraft.
+
+Key to this is Meteor’s throttle-able ramjet engine, active radar seeker and datalink that combine to provide unmatched end-game speed and manoeuvrability at greatly extended ranges, resulting in its ‘No-Escape Zone’ being several times greater than any other existing or planned BVR weapons. Meteor is a six-European nation programme that will provide the key future BVR air-to-air armament for Europe’s new generation of combat platforms.
+
+Asraam is being delivered for the IAF as its New Generation Close Combat Missile programme. Its large rocket motor, and clean aerodynamic design, provide speed, aerodynamic manoeuvrability and range. Asraam will arm the IAF’s upgraded Jaguar fleet, and potentially other IAF platforms.
+
+MICA is being delivered for the IAF’s Mirage 2000 upgrade and for Rafale. Showcased on MBDA’s stand, this is the only missile in the world featuring two interoperable seekers (active radar and imaging infrared) to cover the spectrum from close-in dogfight to long beyond visual range. Its ability to fly out to BVR in passive mode before the seeker locks on in the final stages of the end game has earned it the nickname “silent killer” as the target has little time to react or to deploy effective countermeasures.
+
+![](/images/MBDA-exhibiting-full-range-of-Missiles-at-Aero-India-2019/1*tca9fW6OLwkHDFjBhxVNpQ.jpeg)
+
+MISTRAL ATAM has been delivered to India to equip the HAL weaponised version of the Advanced Light Helicopter, the ALH Rudra. The system is based on two launchers each deploying two MBDA air-to-air Mistral missiles. Given the wide range of roles that the Rudra will have to undertake, ATAM will provide the helicopter’s crew with a weapon that is not only easy to use but one that can be operated in the whole flight envelope from nap of the earth to 15,000ft and at flight speeds from hovering to up to 200 knots. The same system has successfully undergone integration on the LCH platform also manufactured by HAL.
+
+BRIMSTONE goes from strength to strength with trials and combat deployment clearly demonstrating the unmatched capabilities of this weapon in meeting the operational challenges of today. Trials have included firing at targets moving at speeds of up to 70 mph from a variety of launch conditions, including long range and high off-bore-sight. Test scenarios have also simulated a cluttered road environment, as typically encountered during recent conflicts. Every shot achieved a direct hit on the target. BRIMSTONE has won international acclaim following its successful combat deployment during recent operations in Libya and Afghanistan and more recently Syria. Precision surface strikes are a major feature of today’s air force mission and BRIMSTONE with its dual milli-metric wave radar and semi-active laser (SAL) seeker gives the pilot a great deal of flexibility.
+
+A salvo of BRIMSTONES can be launched in fire-and-forget mode or, should man-in-the loop be required because of complex operational conditions, the SAL mode can be selected. BRIMSTONE’s unique capabilities have also been proved from attack helicopters, with highly successful trials being conducted in the US from Apache, from UAV’s, with excellent trials successes from the Predator/Reaper family of UAVs, and also as a surface-to-surface weapon. Whether air or surface launched, BRIMSTONE is the only weapon currently available that can engage not only fast moving land targets but also swarming FIACs (Fast Inshore Attack Craft), a fast emerging and worrying threat in coastal waters.
+
+![](/images/MBDA-exhibiting-full-range-of-Missiles-at-Aero-India-2019/1*fh6O0KXKImrKLoEcaB_HBQ.jpeg)
+
+Deep strike is a major requirement for a modern air force. The ability to deliver precision strike against high value targets such as well protected control bunkers/centres, key infrastructures and military installations from a safe stand-off distance is crucial in the early days of a conflict as was shown in Iraq and Libya. At Aero India 2019, MBDA is displaying SCALP/STORM SHADOW which is in operational service on the French Air Force’s Rafale aircraft (as well as with other Air Forces) and which has proved its unerring and unmatched ability to combine very long range with devastating target effect during combat operations carried out by the air forces of the UK, France and Italy.
+
+SMARTGLIDER is another long-range strike weapon and is optimised to counter anti-access strategies and other emerging battlespace threats. It forms a family of all-up-round glide weapons, with folding wings and a range of over 100 km allowing the combat platform to stay at safe distance from the enemy defences. With the smallest member of the SmartGlider family being just 120 kg, a Rafale will be able to carry as many as 18 — allowing the destruction of multiple targets or the saturation of even the most complex air defence systems.
+
+BATTLEFIELD ENGAGEMENT:
+
+MMP is the only fifth generation anti-tank missile available in the world, and it has been designed for dismounted infantry as well as for integration on combat vehicles. MMP is unique in featuring both fire-and-forget and operator-above-the-loop operation, and being network-enabled MMP can also receive third party target designation for indirect firing scenarios. The technologies pioneered in MMP will be further developed by ATGM5 in India for the specific operational requirements of the Indian Armed Forces.
+
+MARITIME SUPERIORITY:
+
+EXOCET probably ranks as the world’s best known anti-ship missile. It is known in India where the submarine variant, SM39, has been delivered to the Indian Navy to arm its Scorpene submarines (Project 75). The AM39 version can be launched from Maritime Patrol Aircraft, strike fighters such as the Rafale as well as medium to heavyweight helicopters. Features such as low signature, sea-skimming flight at very low altitudes, late seeker activation, enhanced target discrimination and ECCM combine to make this a redoubtable weapon indeed. In its Block2 Mod2 latest evolution it is now fully compliant with the latest generation of aircraft platforms. The MM40 Block 3 variant within the EXOCET family is a 200+ km class weapon suitable for launch from ships or from coastal batteries. Already in service, this latest generation EXOCET features 3D waypoints, low sea-skimming flight profile and the ability to strike coastal land targets as well as ships.
+
+Sea Ceptor is the next-generation, ship-based, all-weather, air defence weapon system. Through the use of new advanced technologies, Sea Ceptor provides complete protection against all known and projected air targets including saturation attacks across 360° simultaneously. Sea Ceptor utilises the CAMM missile that features a next generation all-weather RF-seeker, two-way datalink and soft-vertical launch system to provide a step-change in performance compared with previous generation systems. Sea Ceptor will protect both the host ship and high value units in the local area. The Weapon System has the capability to intercept and thereby neutralise the full range of current and future threats including combat aircraft and the new generation of supersonic anti-ship missiles.
+
+MARTE is a family of fixed and rotary wing and ship-launched anti-ship missile weapon systems designed to meet operational requirements in complex littoral environments and blue water scenarios. At Aero India 2019, MBDA is displaying MARTE ER, the latest addition to the family. The high sub-sonic MARTE ER is equipped with a turbo-jet engine giving it a range of well over 120 km, thus enabling it to engage enemy vessels well over the horizon. Other enhancements include an optimized terminal guidance system and 4D waypoints including altitude and time for simultaneous time on target attack. MARTE ER offers rotary and fixed wing aircraft, ships and land based coastal defence systems a significant operational advantage.
+
+MBDA will also be displaying its NCM (Naval Cruise Missile). This very long-range surface attack stand-off cruise missile is designed to attack deep into enemy territory. Given its range, it will provide navies and surface and sub-surface vessels with the ability to maintain a prolonged dissuasive force in theatre unlike an aircraft launched missile. Drawing on elements of the combat-proven SCALP/Storm Shadow and weighing some 1,400 kg with an overall length of around 6.50m and a diameter of 0.5m, NCM offers destructive power against key infrastructure targets. Maximum precision and minimum collateral damages are assured thanks to the weapon’s guidance system which combines inertial guidance, terrain matching, and GPS with an imaging infrared seeker to achieve metric accuracies in the terminal phase. The missile has already been tested for both surface ship and submarine launch (vertically launched for the former and via the torpedo tubes for the latter with the submarine version housed in a special sea to air transition container). Surface ship operational capability was declared in May 2015 after a series of test firings had been successfully completed.
